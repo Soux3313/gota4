@@ -1,0 +1,1640 @@
+Generating queue...
+There will be 360 matches
+Starting servers...
+Started server at https://localhost:8000
+Created new instance 0 for player 0 on port 8001
+Created new instance 1 for player 1 on port 8002
+Connected players 0, 1 to server 0
+Created new instance 2 for player 0 on port 8003
+Created new instance 3 for player 1 on port 8004
+Connected players 2, 3 to server 0
+Created new instance 4 for player 0 on port 8005
+Created new instance 5 for player 1 on port 8006
+Connected players 4, 5 to server 0
+Created new instance 6 for player 0 on port 8007
+Created new instance 7 for player 1 on port 8008
+Connected players 6, 7 to server 0
+Created new instance 8 for player 0 on port 8009
+Created new instance 9 for player 1 on port 8010
+Connected players 8, 9 to server 0
+Created new instance 10 for player 0 on port 8011
+Created new instance 11 for player 1 on port 8012
+Connected players 10, 11 to server 0
+Created new instance 12 for player 0 on port 8013
+Created new instance 13 for player 1 on port 8014
+Connected players 12, 13 to server 0
+Created new instance 14 for player 0 on port 8015
+Created new instance 15 for player 1 on port 8016
+Connected players 14, 15 to server 0
+Created new instance 16 for player 0 on port 8017
+Created new instance 17 for player 1 on port 8018
+Connected players 16, 17 to server 0
+Created new instance 18 for player 0 on port 8019
+Created new instance 19 for player 1 on port 8020
+Connected players 18, 19 to server 0
+Created new instance 20 for player 0 on port 8021
+Created new instance 21 for player 1 on port 8022
+Connected players 20, 21 to server 0
+Created new instance 22 for player 0 on port 8023
+Created new instance 23 for player 1 on port 8024
+Connected players 22, 23 to server 0
+Reused instance 0 for player 0
+Reused instance 1 for player 1
+Connected players 0, 1 to server 0
+(00.28%) 0(W) vs. 1(B) => 1 won in 84 turns
+Reused instance 2 for player 0
+Reused instance 3 for player 1
+Connected players 2, 3 to server 0
+(00.56%) 0(W) vs. 1(B) => 0 won in 73 turns
+Reused instance 18 for player 0
+Reused instance 19 for player 1
+Connected players 18, 19 to server 0
+(00.83%) 0(W) vs. 1(B) => 0 won in 87 turns
+Reused instance 10 for player 0
+Reused instance 11 for player 1
+Connected players 10, 11 to server 0
+(01.11%) 0(W) vs. 1(B) => 0 won in 81 turns
+Reused instance 16 for player 0
+Reused instance 17 for player 1
+Connected players 16, 17 to server 0
+(01.39%) 0(W) vs. 1(B) => 1 won in 86 turns
+Reused instance 22 for player 0
+Reused instance 23 for player 1
+Connected players 22, 23 to server 0
+(01.67%) 0(W) vs. 1(B) => 0 won in 85 turns
+Reused instance 12 for player 0
+Reused instance 13 for player 1
+Connected players 12, 13 to server 0
+(01.94%) 0(W) vs. 1(B) => 0 won in 85 turns
+Reused instance 14 for player 0
+Reused instance 15 for player 1
+Connected players 14, 15 to server 0
+(02.22%) 0(W) vs. 1(B) => 0 won in 81 turns
+Reused instance 4 for player 0
+Reused instance 5 for player 1
+Connected players 4, 5 to server 0
+(02.50%) 0(W) vs. 1(B) => 0 won in 85 turns
+Reused instance 8 for player 0
+Reused instance 9 for player 1
+Connected players 8, 9 to server 0
+(02.78%) 0(W) vs. 1(B) => 0 won in 79 turns
+Reused instance 0 for player 0
+Reused instance 1 for player 1
+Connected players 0, 1 to server 0
+(03.06%) 0(W) vs. 1(B) => 0 won in 73 turns
+Reused instance 10 for player 0
+Reused instance 11 for player 1
+Connected players 10, 11 to server 0
+(03.33%) 0(W) vs. 1(B) => 0 won in 87 turns
+Reused instance 6 for player 0
+Reused instance 7 for player 1
+Connected players 6, 7 to server 0
+(03.61%) 0(W) vs. 1(B) => 1 won in 90 turns
+Reused instance 12 for player 0
+Reused instance 13 for player 1
+Connected players 12, 13 to server 0
+(03.89%) 0(W) vs. 1(B) => 0 won in 87 turns
+Reused instance 22 for player 0
+Reused instance 23 for player 1
+Connected players 22, 23 to server 0
+(04.17%) 0(W) vs. 1(B) => 0 won in 83 turns
+Reused instance 2 for player 0
+Reused instance 3 for player 1
+Connected players 2, 3 to server 0
+Reused instance 14 for player 0
+Reused instance 15 for player 1
+Connected players 14, 15 to server 0
+(04.44%) 0(W) vs. 1(B) => 1 won in 78 turns
+(04.72%) 0(W) vs. 1(B) => 0 won in 83 turns
+Reused instance 4 for player 0
+Reused instance 5 for player 1
+Connected players 4, 5 to server 0
+(05.00%) 0(W) vs. 1(B) => 0 won in 87 turns
+Reused instance 18 for player 0
+Created new instance 24 for player 2 on port 8025
+Connected players 18, 24 to server 0
+Killed instance 19 from player 1
+(05.28%) 0(W) vs. 1(B) => 0 won in 87 turns
+Reused instance 8 for player 0
+Created new instance 25 for player 2 on port 8020
+Connected players 8, 25 to server 0
+Killed instance 9 from player 1
+(05.56%) 0(W) vs. 1(B) => 0 won in 81 turns
+Reused instance 20 for player 0
+Created new instance 26 for player 2 on port 8010
+Connected players 20, 26 to server 0
+Killed instance 21 from player 1
+(05.83%) 0(W) vs. 1(B) => 1 won in 86 turns
+Reused instance 16 for player 0
+Created new instance 27 for player 2 on port 8022
+Connected players 16, 27 to server 0
+Killed instance 17 from player 1
+(06.11%) 0(W) vs. 1(B) => 0 won in 85 turns
+Reused instance 0 for player 0
+Created new instance 28 for player 2 on port 8018
+Connected players 0, 28 to server 0
+Killed instance 1 from player 1
+(06.39%) 0(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 6 for player 0
+Created new instance 29 for player 2 on port 8002
+Connected players 6, 29 to server 0
+Killed instance 7 from player 1
+(06.67%) 0(W) vs. 1(B) => 1 won in 90 turns
+Reused instance 10 for player 0
+Created new instance 30 for player 2 on port 8008
+Connected players 10, 30 to server 0
+Killed instance 11 from player 1
+(06.94%) 0(W) vs. 1(B) => 1 won in 86 turns
+Reused instance 22 for player 0
+Created new instance 31 for player 2 on port 8012
+Connected players 22, 31 to server 0
+Killed instance 23 from player 1
+(07.22%) 0(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 14 for player 0
+Reused instance 25 for player 2
+Connected players 14, 25 to server 0
+Reused instance 8 for player 0
+Reused instance 27 for player 2
+Connected players 8, 27 to server 0
+Reused instance 16 for player 0
+Created new instance 32 for player 2 on port 8024
+Connected players 16, 32 to server 0
+Killed instance 15 from player 1
+(07.50%) 0(W) vs. 1(B) => 1 won in 90 turns
+(07.78%) 0(W) vs. 2(B) => 2 won in 66 turns
+(08.06%) 0(W) vs. 2(B) => 0 won in 77 turns
+Reused instance 12 for player 0
+Reused instance 26 for player 2
+Connected players 12, 26 to server 0
+Reused instance 20 for player 0
+Created new instance 33 for player 2 on port 8016
+Connected players 20, 33 to server 0
+Killed instance 13 from player 1
+(08.33%) 0(W) vs. 1(B) => 1 won in 84 turns
+(08.61%) 0(W) vs. 2(B) => 0 won in 89 turns
+Reused instance 18 for player 0
+Reused instance 24 for player 2
+Connected players 18, 24 to server 0
+(08.89%) 0(W) vs. 2(B) => 0 won in 81 turns
+Reused instance 2 for player 0
+Created new instance 34 for player 2 on port 8014
+Connected players 2, 34 to server 0
+Killed instance 3 from player 1
+(09.17%) 0(W) vs. 1(B) => 1 won in 80 turns
+Reused instance 0 for player 0
+Reused instance 28 for player 2
+Connected players 0, 28 to server 0
+(09.44%) 0(W) vs. 2(B) => 0 won in 85 turns
+Reused instance 6 for player 0
+Reused instance 29 for player 2
+Connected players 6, 29 to server 0
+(09.72%) 0(W) vs. 2(B) => 0 won in 87 turns
+Reused instance 4 for player 0
+Reused instance 25 for player 2
+Connected players 4, 25 to server 0
+Reused instance 14 for player 0
+Reused instance 33 for player 2
+Connected players 14, 33 to server 0
+Reused instance 20 for player 0
+Created new instance 35 for player 2 on port 8004
+Connected players 20, 35 to server 0
+Killed instance 5 from player 1
+(10.00%) 0(W) vs. 1(B) => 0 won in 75 turns
+(10.28%) 0(W) vs. 2(B) => 2 won in 66 turns
+(10.56%) 0(W) vs. 2(B) => 2 won in 72 turns
+Reused instance 12 for player 0
+Reused instance 26 for player 2
+Connected players 12, 26 to server 0
+(10.83%) 0(W) vs. 2(B) => 0 won in 83 turns
+Reused instance 22 for player 0
+Reused instance 31 for player 2
+Connected players 22, 31 to server 0
+(11.11%) 0(W) vs. 2(B) => 0 won in 79 turns
+Reused instance 10 for player 0
+Reused instance 30 for player 2
+Connected players 10, 30 to server 0
+Reused instance 18 for player 0
+Reused instance 24 for player 2
+Connected players 18, 24 to server 0
+(11.39%) 0(W) vs. 2(B) => 2 won in 88 turns
+(11.67%) 0(W) vs. 2(B) => 0 won in 87 turns
+Reused instance 8 for player 0
+Reused instance 27 for player 2
+Connected players 8, 27 to server 0
+(11.94%) 0(W) vs. 2(B) => 0 won in 81 turns
+Reused instance 16 for player 0
+Reused instance 32 for player 2
+Connected players 16, 32 to server 0
+(12.22%) 0(W) vs. 2(B) => 2 won in 90 turns
+Reused instance 0 for player 0
+Reused instance 28 for player 2
+Connected players 0, 28 to server 0
+(12.50%) 0(W) vs. 2(B) => 2 won in 74 turns
+Reused instance 22 for player 0
+Reused instance 31 for player 2
+Connected players 22, 31 to server 0
+(12.78%) 0(W) vs. 2(B) => 2 won in 72 turns
+Reused instance 6 for player 0
+Reused instance 29 for player 2
+Connected players 6, 29 to server 0
+Reused instance 20 for player 0
+Reused instance 35 for player 2
+Connected players 20, 35 to server 0
+Reused instance 18 for player 0
+Created new instance 36 for player 3 on port 8006
+Connected players 18, 36 to server 0
+Reused instance 8 for player 0
+Created new instance 37 for player 3 on port 8026
+Connected players 8, 37 to server 0
+Killed instance 24 from player 2
+Killed instance 27 from player 2
+(13.06%) 0(W) vs. 2(B) => 0 won in 79 turns
+(13.33%) 0(W) vs. 2(B) => 2 won in 76 turns
+(13.61%) 0(W) vs. 2(B) => 0 won in 79 turns
+(13.89%) 0(W) vs. 2(B) => 0 won in 87 turns
+Reused instance 4 for player 0
+Created new instance 38 for player 3 on port 8022
+Connected players 4, 38 to server 0
+Reused instance 10 for player 0
+Created new instance 39 for player 3 on port 8025
+Connected players 10, 39 to server 0
+Killed instance 25 from player 2
+Killed instance 30 from player 2
+(14.17%) 0(W) vs. 2(B) => 0 won in 91 turns
+(14.44%) 0(W) vs. 2(B) => 0 won in 83 turns
+Reused instance 14 for player 0
+Created new instance 40 for player 3 on port 8008
+Connected players 14, 40 to server 0
+Killed instance 33 from player 2
+(14.72%) 0(W) vs. 2(B) => 2 won in 88 turns
+Reused instance 0 for player 0
+Created new instance 41 for player 3 on port 8016
+Connected players 0, 41 to server 0
+Killed instance 28 from player 2
+(15.00%) 0(W) vs. 2(B) => 0 won in 81 turns
+Reused instance 2 for player 0
+Created new instance 42 for player 3 on port 8018
+Connected players 2, 42 to server 0
+Reused instance 12 for player 0
+Created new instance 43 for player 3 on port 8020
+Connected players 12, 43 to server 0
+Reused instance 16 for player 0
+Created new instance 44 for player 3 on port 8027
+Connected players 16, 44 to server 0
+Killed instance 34 from player 2
+Killed instance 26 from player 2
+Killed instance 32 from player 2
+(15.28%) 0(W) vs. 2(B) => 0 won in 89 turns
+(15.56%) 0(W) vs. 2(B) => 0 won in 83 turns
+(15.83%) 0(W) vs. 2(B) => 0 won in 79 turns
+Reused instance 4 for player 0
+Reused instance 38 for player 3
+Connected players 4, 38 to server 0
+(16.11%) 0(W) vs. 3(B) => 0 won in 91 turns
+Reused instance 6 for player 0
+Created new instance 45 for player 3 on port 8024
+Connected players 6, 45 to server 0
+Killed instance 29 from player 2
+(16.39%) 0(W) vs. 2(B) => 2 won in 86 turns
+Reused instance 18 for player 0
+Reused instance 36 for player 3
+Connected players 18, 36 to server 0
+(16.67%) 0(W) vs. 3(B) => 0 won in 89 turns
+Reused instance 20 for player 0
+Created new instance 46 for player 3 on port 8002
+Connected players 20, 46 to server 0
+Killed instance 35 from player 2
+(16.94%) 0(W) vs. 2(B) => 0 won in 83 turns
+Reused instance 16 for player 0
+Reused instance 44 for player 3
+Connected players 16, 44 to server 0
+(17.22%) 0(W) vs. 3(B) => 3 won in 72 turns
+Reused instance 10 for player 0
+Reused instance 39 for player 3
+Connected players 10, 39 to server 0
+(17.50%) 0(W) vs. 3(B) => 0 won in 85 turns
+Reused instance 22 for player 0
+Created new instance 47 for player 3 on port 8004
+Connected players 22, 47 to server 0
+Killed instance 31 from player 2
+(17.78%) 0(W) vs. 2(B) => 0 won in 81 turns
+Reused instance 8 for player 0
+Reused instance 37 for player 3
+Connected players 8, 37 to server 0
+Reused instance 12 for player 0
+Reused instance 43 for player 3
+Connected players 12, 43 to server 0
+(18.06%) 0(W) vs. 3(B) => 3 won in 86 turns
+(18.33%) 0(W) vs. 3(B) => 3 won in 84 turns
+Reused instance 6 for player 0
+Reused instance 45 for player 3
+Connected players 6, 45 to server 0
+(18.61%) 0(W) vs. 3(B) => 0 won in 89 turns
+Reused instance 20 for player 0
+Reused instance 46 for player 3
+Connected players 20, 46 to server 0
+(18.89%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 0 for player 0
+Reused instance 41 for player 3
+Connected players 0, 41 to server 0
+(19.17%) 0(W) vs. 3(B) => 0 won in 83 turns
+Reused instance 16 for player 0
+Reused instance 44 for player 3
+Connected players 16, 44 to server 0
+(19.44%) 0(W) vs. 3(B) => 0 won in 87 turns
+Reused instance 22 for player 0
+Reused instance 47 for player 3
+Connected players 22, 47 to server 0
+(19.72%) 0(W) vs. 3(B) => 0 won in 85 turns
+Reused instance 2 for player 0
+Reused instance 42 for player 3
+Connected players 2, 42 to server 0
+(20.00%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 20 for player 0
+Reused instance 46 for player 3
+Connected players 20, 46 to server 0
+(20.28%) 0(W) vs. 3(B) => 3 won in 88 turns
+Reused instance 4 for player 0
+Reused instance 38 for player 3
+Connected players 4, 38 to server 0
+Reused instance 8 for player 0
+Reused instance 37 for player 3
+Connected players 8, 37 to server 0
+(20.56%) 0(W) vs. 3(B) => 0 won in 91 turns
+(20.83%) 0(W) vs. 3(B) => 3 won in 86 turns
+Reused instance 18 for player 0
+Reused instance 36 for player 3
+Connected players 18, 36 to server 0
+Reused instance 6 for player 0
+Reused instance 45 for player 3
+Connected players 6, 45 to server 0
+(21.11%) 0(W) vs. 3(B) => 3 won in 66 turns
+(21.39%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 10 for player 0
+Reused instance 39 for player 3
+Connected players 10, 39 to server 0
+(21.67%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 14 for player 0
+Created new instance 48 for player 1 on port 8012
+Connected players 48, 14 to server 0
+Killed instance 40 from player 3
+(21.94%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 12 for player 0
+Created new instance 49 for player 1 on port 8008
+Connected players 49, 12 to server 0
+Killed instance 43 from player 3
+(22.22%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 0 for player 0
+Created new instance 50 for player 1 on port 8020
+Connected players 50, 0 to server 0
+Reused instance 16 for player 0
+Created new instance 51 for player 1 on port 8010
+Connected players 51, 16 to server 0
+Reused instance 8 for player 0
+Created new instance 52 for player 1 on port 8014
+Connected players 52, 8 to server 0
+Killed instance 41 from player 3
+Killed instance 44 from player 3
+Killed instance 37 from player 3
+(22.50%) 0(W) vs. 3(B) => 0 won in 85 turns
+(22.78%) 0(W) vs. 3(B) => 0 won in 87 turns
+(23.06%) 0(W) vs. 3(B) => 3 won in 74 turns
+Reused instance 20 for player 0
+Created new instance 53 for player 1 on port 8026
+Connected players 53, 20 to server 0
+Killed instance 46 from player 3
+(23.33%) 0(W) vs. 3(B) => 3 won in 74 turns
+Reused instance 22 for player 0
+Created new instance 54 for player 1 on port 8002
+Connected players 54, 22 to server 0
+Reused instance 18 for player 0
+Created new instance 55 for player 1 on port 8027
+Connected players 55, 18 to server 0
+Killed instance 47 from player 3
+Killed instance 36 from player 3
+(23.61%) 0(W) vs. 3(B) => 0 won in 85 turns
+(23.89%) 0(W) vs. 3(B) => 3 won in 76 turns
+Reused instance 4 for player 0
+Created new instance 56 for player 1 on port 8006
+Connected players 56, 4 to server 0
+Killed instance 38 from player 3
+(24.17%) 0(W) vs. 3(B) => 3 won in 84 turns
+Reused instance 2 for player 0
+Created new instance 57 for player 1 on port 8022
+Connected players 57, 2 to server 0
+Reused instance 6 for player 0
+Created new instance 58 for player 1 on port 8004
+Connected players 58, 6 to server 0
+Killed instance 42 from player 3
+Killed instance 45 from player 3
+(24.44%) 0(W) vs. 3(B) => 0 won in 89 turns
+(24.72%) 0(W) vs. 3(B) => 0 won in 79 turns
+Reused instance 10 for player 0
+Created new instance 59 for player 1 on port 8024
+Connected players 59, 10 to server 0
+Killed instance 39 from player 3
+(25.00%) 0(W) vs. 3(B) => 0 won in 91 turns
+Reused instance 53 for player 1
+Reused instance 20 for player 0
+Connected players 53, 20 to server 0
+(25.28%) 1(W) vs. 0(B) => 1 won in 85 turns
+Reused instance 51 for player 1
+Reused instance 16 for player 0
+Connected players 51, 16 to server 0
+(25.56%) 1(W) vs. 0(B) => 1 won in 73 turns
+Reused instance 48 for player 1
+Reused instance 14 for player 0
+Connected players 48, 14 to server 0
+(25.83%) 1(W) vs. 0(B) => 0 won in 86 turns
+Reused instance 50 for player 1
+Reused instance 0 for player 0
+Connected players 50, 0 to server 0
+(26.11%) 1(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 49 for player 1
+Reused instance 12 for player 0
+Connected players 49, 12 to server 0
+(26.39%) 1(W) vs. 0(B) => 0 won in 90 turns
+Reused instance 54 for player 1
+Reused instance 22 for player 0
+Connected players 54, 22 to server 0
+(26.67%) 1(W) vs. 0(B) => 1 won in 83 turns
+Reused instance 55 for player 1
+Reused instance 18 for player 0
+Connected players 55, 18 to server 0
+(26.94%) 1(W) vs. 0(B) => 1 won in 81 turns
+Reused instance 58 for player 1
+Reused instance 6 for player 0
+Connected players 58, 6 to server 0
+(27.22%) 1(W) vs. 0(B) => 0 won in 84 turns
+Reused instance 52 for player 1
+Reused instance 8 for player 0
+Connected players 52, 8 to server 0
+(27.50%) 1(W) vs. 0(B) => 1 won in 91 turns
+Reused instance 53 for player 1
+Reused instance 20 for player 0
+Connected players 53, 20 to server 0
+(27.78%) 1(W) vs. 0(B) => 1 won in 89 turns
+Reused instance 59 for player 1
+Reused instance 10 for player 0
+Connected players 59, 10 to server 0
+(28.06%) 1(W) vs. 0(B) => 0 won in 88 turns
+Reused instance 56 for player 1
+Reused instance 4 for player 0
+Connected players 56, 4 to server 0
+(28.33%) 1(W) vs. 0(B) => 1 won in 85 turns
+Reused instance 48 for player 1
+Reused instance 14 for player 0
+Connected players 48, 14 to server 0
+(28.61%) 1(W) vs. 0(B) => 1 won in 77 turns
+Reused instance 57 for player 1
+Reused instance 2 for player 0
+Connected players 57, 2 to server 0
+(28.89%) 1(W) vs. 0(B) => 1 won in 81 turns
+Reused instance 50 for player 1
+Reused instance 0 for player 0
+Connected players 50, 0 to server 0
+(29.17%) 1(W) vs. 0(B) => 0 won in 88 turns
+Reused instance 51 for player 1
+Reused instance 16 for player 0
+Connected players 51, 16 to server 0
+(29.44%) 1(W) vs. 0(B) => 1 won in 91 turns
+Reused instance 55 for player 1
+Reused instance 18 for player 0
+Connected players 55, 18 to server 0
+Reused instance 58 for player 1
+Reused instance 6 for player 0
+Connected players 58, 6 to server 0
+(29.72%) 1(W) vs. 0(B) => 1 won in 85 turns
+(30.00%) 1(W) vs. 0(B) => 0 won in 84 turns
+Reused instance 49 for player 1
+Created new instance 60 for player 2 on port 8025
+Connected players 49, 60 to server 0
+Killed instance 12 from player 0
+(30.28%) 1(W) vs. 0(B) => 1 won in 83 turns
+Reused instance 53 for player 1
+Created new instance 61 for player 2 on port 8013
+Connected players 53, 61 to server 0
+Killed instance 20 from player 0
+(30.56%) 1(W) vs. 0(B) => 1 won in 85 turns
+Reused instance 52 for player 1
+Created new instance 62 for player 2 on port 8021
+Connected players 52, 62 to server 0
+Killed instance 8 from player 0
+(30.83%) 1(W) vs. 0(B) => 1 won in 91 turns
+Reused instance 54 for player 1
+Created new instance 63 for player 2 on port 8009
+Connected players 54, 63 to server 0
+Killed instance 22 from player 0
+(31.11%) 1(W) vs. 0(B) => 1 won in 79 turns
+Reused instance 49 for player 1
+Reused instance 60 for player 2
+Connected players 49, 60 to server 0
+Reused instance 53 for player 1
+Reused instance 61 for player 2
+Connected players 53, 61 to server 0
+(31.39%) 1(W) vs. 2(B) => 2 won in 86 turns
+(31.67%) 1(W) vs. 2(B) => 1 won in 87 turns
+Reused instance 57 for player 1
+Created new instance 64 for player 2 on port 8023
+Connected players 57, 64 to server 0
+Killed instance 2 from player 0
+(31.94%) 1(W) vs. 0(B) => 0 won in 90 turns
+Reused instance 51 for player 1
+Reused instance 62 for player 2
+Connected players 51, 62 to server 0
+Reused instance 52 for player 1
+Created new instance 65 for player 2 on port 8003
+Connected players 52, 65 to server 0
+Killed instance 16 from player 0
+(32.22%) 1(W) vs. 0(B) => 1 won in 89 turns
+(32.50%) 1(W) vs. 2(B) => 1 won in 79 turns
+Reused instance 48 for player 1
+Created new instance 66 for player 2 on port 8017
+Connected players 48, 66 to server 0
+Killed instance 14 from player 0
+(32.78%) 1(W) vs. 0(B) => 0 won in 86 turns
+Reused instance 56 for player 1
+Created new instance 67 for player 2 on port 8015
+Connected players 56, 67 to server 0
+Killed instance 4 from player 0
+(33.06%) 1(W) vs. 0(B) => 0 won in 78 turns
+Reused instance 53 for player 1
+Reused instance 61 for player 2
+Connected players 53, 61 to server 0
+(33.33%) 1(W) vs. 2(B) => 2 won in 68 turns
+Reused instance 57 for player 1
+Reused instance 64 for player 2
+Connected players 57, 64 to server 0
+(33.61%) 1(W) vs. 2(B) => 1 won in 79 turns
+Reused instance 59 for player 1
+Created new instance 68 for player 2 on port 8005
+Connected players 59, 68 to server 0
+Killed instance 10 from player 0
+(33.89%) 1(W) vs. 0(B) => 1 won in 87 turns
+Reused instance 52 for player 1
+Reused instance 65 for player 2
+Connected players 52, 65 to server 0
+(34.17%) 1(W) vs. 2(B) => 1 won in 87 turns
+Reused instance 50 for player 1
+Reused instance 61 for player 2
+Connected players 50, 61 to server 0
+Reused instance 55 for player 1
+Created new instance 69 for player 2 on port 8011
+Connected players 55, 69 to server 0
+Reused instance 53 for player 1
+Created new instance 70 for player 2 on port 8018
+Connected players 53, 70 to server 0
+Killed instance 0 from player 0
+Killed instance 18 from player 0
+(34.44%) 1(W) vs. 0(B) => 1 won in 81 turns
+(34.72%) 1(W) vs. 0(B) => 0 won in 84 turns
+(35.00%) 1(W) vs. 2(B) => 2 won in 70 turns
+Reused instance 54 for player 1
+Reused instance 63 for player 2
+Connected players 54, 63 to server 0
+Reused instance 51 for player 1
+Reused instance 62 for player 2
+Connected players 51, 62 to server 0
+Reused instance 48 for player 1
+Reused instance 66 for player 2
+Connected players 48, 66 to server 0
+Reused instance 57 for player 1
+Reused instance 64 for player 2
+Connected players 57, 64 to server 0
+(35.28%) 1(W) vs. 2(B) => 1 won in 85 turns
+(35.56%) 1(W) vs. 2(B) => 2 won in 72 turns
+(35.83%) 1(W) vs. 2(B) => 1 won in 89 turns
+(36.11%) 1(W) vs. 2(B) => 1 won in 87 turns
+Reused instance 52 for player 1
+Reused instance 65 for player 2
+Connected players 52, 65 to server 0
+(36.39%) 1(W) vs. 2(B) => 1 won in 85 turns
+Reused instance 56 for player 1
+Reused instance 67 for player 2
+Connected players 56, 67 to server 0
+(36.67%) 1(W) vs. 2(B) => 1 won in 83 turns
+Reused instance 59 for player 1
+Reused instance 68 for player 2
+Connected players 59, 68 to server 0
+(36.94%) 1(W) vs. 2(B) => 1 won in 75 turns
+Reused instance 58 for player 1
+Reused instance 70 for player 2
+Connected players 58, 70 to server 0
+Reused instance 53 for player 1
+Created new instance 71 for player 2 on port 8019
+Connected players 53, 71 to server 0
+Killed instance 6 from player 0
+(37.22%) 1(W) vs. 0(B) => 0 won in 82 turns
+(37.50%) 1(W) vs. 2(B) => 2 won in 68 turns
+Reused instance 49 for player 1
+Reused instance 60 for player 2
+Connected players 49, 60 to server 0
+(37.78%) 1(W) vs. 2(B) => 1 won in 77 turns
+Reused instance 50 for player 1
+Reused instance 61 for player 2
+Connected players 50, 61 to server 0
+(38.06%) 1(W) vs. 2(B) => 1 won in 83 turns
+Reused instance 52 for player 1
+Reused instance 65 for player 2
+Connected players 52, 65 to server 0
+(38.33%) 1(W) vs. 2(B) => 1 won in 87 turns
+Reused instance 48 for player 1
+Created new instance 72 for player 3 on port 8007
+Connected players 48, 72 to server 0
+Killed instance 66 from player 2
+(38.61%) 1(W) vs. 2(B) => 1 won in 81 turns
+Reused instance 51 for player 1
+Created new instance 73 for player 3 on port 8017
+Connected players 51, 73 to server 0
+Killed instance 62 from player 2
+(38.89%) 1(W) vs. 2(B) => 1 won in 81 turns
+Reused instance 54 for player 1
+Created new instance 74 for player 3 on port 8021
+Connected players 54, 74 to server 0
+Killed instance 63 from player 2
+(39.17%) 1(W) vs. 2(B) => 1 won in 69 turns
+Reused instance 57 for player 1
+Created new instance 75 for player 3 on port 8009
+Connected players 57, 75 to server 0
+Killed instance 64 from player 2
+(39.44%) 1(W) vs. 2(B) => 1 won in 69 turns
+Reused instance 55 for player 1
+Created new instance 76 for player 3 on port 8023
+Connected players 55, 76 to server 0
+Reused instance 56 for player 1
+Created new instance 77 for player 3 on port 8001
+Connected players 56, 77 to server 0
+Reused instance 49 for player 1
+Created new instance 78 for player 3 on port 8016
+Connected players 49, 78 to server 0
+Killed instance 69 from player 2
+Killed instance 67 from player 2
+Killed instance 60 from player 2
+(39.72%) 1(W) vs. 2(B) => 1 won in 81 turns
+(40.00%) 1(W) vs. 2(B) => 1 won in 87 turns
+(40.28%) 1(W) vs. 2(B) => 2 won in 76 turns
+Reused instance 58 for player 1
+Created new instance 79 for player 3 on port 8025
+Connected players 58, 79 to server 0
+Reused instance 50 for player 1
+Created new instance 80 for player 3 on port 8015
+Connected players 50, 80 to server 0
+Killed instance 70 from player 2
+Killed instance 61 from player 2
+(40.56%) 1(W) vs. 2(B) => 1 won in 87 turns
+(40.83%) 1(W) vs. 2(B) => 2 won in 74 turns
+Reused instance 52 for player 1
+Reused instance 72 for player 3
+Connected players 52, 72 to server 0
+Reused instance 48 for player 1
+Created new instance 81 for player 3 on port 8013
+Connected players 48, 81 to server 0
+Killed instance 65 from player 2
+(41.11%) 1(W) vs. 2(B) => 1 won in 77 turns
+(41.39%) 1(W) vs. 3(B) => 3 won in 72 turns
+Reused instance 53 for player 1
+Reused instance 74 for player 3
+Connected players 53, 74 to server 0
+Reused instance 54 for player 1
+Created new instance 82 for player 3 on port 8003
+Connected players 54, 82 to server 0
+Killed instance 71 from player 2
+(41.67%) 1(W) vs. 2(B) => 1 won in 81 turns
+(41.94%) 1(W) vs. 3(B) => 1 won in 87 turns
+Reused instance 59 for player 1
+Created new instance 83 for player 3 on port 8019
+Connected players 59, 83 to server 0
+Killed instance 68 from player 2
+(42.22%) 1(W) vs. 2(B) => 1 won in 79 turns
+Reused instance 58 for player 1
+Reused instance 79 for player 3
+Connected players 58, 79 to server 0
+(42.50%) 1(W) vs. 3(B) => 1 won in 79 turns
+Reused instance 56 for player 1
+Reused instance 77 for player 3
+Connected players 56, 77 to server 0
+Reused instance 48 for player 1
+Reused instance 81 for player 3
+Connected players 48, 81 to server 0
+(42.78%) 1(W) vs. 3(B) => 3 won in 74 turns
+(43.06%) 1(W) vs. 3(B) => 1 won in 73 turns
+Reused instance 51 for player 1
+Reused instance 73 for player 3
+Connected players 51, 73 to server 0
+(43.33%) 1(W) vs. 3(B) => 1 won in 87 turns
+Reused instance 50 for player 1
+Reused instance 80 for player 3
+Connected players 50, 80 to server 0
+(43.61%) 1(W) vs. 3(B) => 1 won in 89 turns
+Reused instance 49 for player 1
+Reused instance 78 for player 3
+Connected players 49, 78 to server 0
+(43.89%) 1(W) vs. 3(B) => 1 won in 87 turns
+Reused instance 53 for player 1
+Reused instance 74 for player 3
+Connected players 53, 74 to server 0
+(44.17%) 1(W) vs. 3(B) => 1 won in 89 turns
+Reused instance 55 for player 1
+Reused instance 76 for player 3
+Connected players 55, 76 to server 0
+(44.44%) 1(W) vs. 3(B) => 3 won in 86 turns
+Reused instance 52 for player 1
+Reused instance 72 for player 3
+Connected players 52, 72 to server 0
+Reused instance 54 for player 1
+Reused instance 82 for player 3
+Connected players 54, 82 to server 0
+(44.72%) 1(W) vs. 3(B) => 1 won in 83 turns
+(45.00%) 1(W) vs. 3(B) => 1 won in 81 turns
+Reused instance 51 for player 1
+Reused instance 73 for player 3
+Connected players 51, 73 to server 0
+(45.28%) 1(W) vs. 3(B) => 1 won in 89 turns
+Reused instance 58 for player 1
+Reused instance 79 for player 3
+Connected players 58, 79 to server 0
+(45.56%) 1(W) vs. 3(B) => 3 won in 76 turns
+Reused instance 59 for player 1
+Reused instance 83 for player 3
+Connected players 59, 83 to server 0
+(45.83%) 1(W) vs. 3(B) => 1 won in 91 turns
+Reused instance 57 for player 1
+Reused instance 75 for player 3
+Connected players 57, 75 to server 0
+(46.11%) 1(W) vs. 3(B) => 1 won in 89 turns
+Reused instance 49 for player 1
+Reused instance 78 for player 3
+Connected players 49, 78 to server 0
+(46.39%) 1(W) vs. 3(B) => 1 won in 87 turns
+Reused instance 56 for player 1
+Reused instance 77 for player 3
+Connected players 56, 77 to server 0
+Created new instance 84 for player 2 on port 8005
+Created new instance 85 for player 0 on port 8018
+Connected players 84, 85 to server 0
+Killed instance 48 from player 1
+Killed instance 81 from player 3
+(46.67%) 1(W) vs. 3(B) => 1 won in 87 turns
+(46.94%) 1(W) vs. 3(B) => 1 won in 79 turns
+Created new instance 86 for player 2 on port 8013
+Created new instance 87 for player 0 on port 8012
+Connected players 86, 87 to server 0
+Killed instance 50 from player 1
+Killed instance 80 from player 3
+(47.22%) 1(W) vs. 3(B) => 1 won in 89 turns
+Created new instance 88 for player 2 on port 8015
+Created new instance 89 for player 0 on port 8020
+Connected players 88, 89 to server 0
+Killed instance 52 from player 1
+Killed instance 72 from player 3
+(47.50%) 1(W) vs. 3(B) => 1 won in 89 turns
+Created new instance 90 for player 2 on port 8007
+Created new instance 91 for player 0 on port 8014
+Connected players 90, 91 to server 0
+Killed instance 59 from player 1
+Killed instance 83 from player 3
+(47.78%) 1(W) vs. 3(B) => 3 won in 72 turns
+Created new instance 92 for player 2 on port 8019
+Created new instance 93 for player 0 on port 8024
+Connected players 92, 93 to server 0
+Created new instance 94 for player 2 on port 8011
+Created new instance 95 for player 0 on port 8028
+Connected players 94, 95 to server 0
+Killed instance 53 from player 1
+Killed instance 74 from player 3
+Killed instance 58 from player 1
+Killed instance 79 from player 3
+(48.06%) 1(W) vs. 3(B) => 1 won in 91 turns
+(48.33%) 1(W) vs. 3(B) => 3 won in 84 turns
+Created new instance 96 for player 2 on port 8025
+Created new instance 97 for player 0 on port 8004
+Connected players 96, 97 to server 0
+Killed instance 57 from player 1
+Killed instance 75 from player 3
+(48.61%) 1(W) vs. 3(B) => 1 won in 81 turns
+Created new instance 98 for player 2 on port 8009
+Created new instance 99 for player 0 on port 8022
+Connected players 98, 99 to server 0
+Killed instance 51 from player 1
+Killed instance 73 from player 3
+(48.89%) 1(W) vs. 3(B) => 3 won in 92 turns
+Reused instance 84 for player 2
+Reused instance 85 for player 0
+Connected players 84, 85 to server 0
+Created new instance 100 for player 2 on port 8017
+Created new instance 101 for player 0 on port 8010
+Connected players 100, 101 to server 0
+Killed instance 54 from player 1
+Killed instance 82 from player 3
+(49.17%) 1(W) vs. 3(B) => 3 won in 90 turns
+(49.44%) 2(W) vs. 0(B) => 0 won in 82 turns
+Created new instance 102 for player 2 on port 8003
+Created new instance 103 for player 0 on port 8002
+Connected players 102, 103 to server 0
+Created new instance 104 for player 2 on port 8021
+Created new instance 105 for player 0 on port 8026
+Connected players 104, 105 to server 0
+Killed instance 55 from player 1
+Killed instance 76 from player 3
+Killed instance 49 from player 1
+Killed instance 78 from player 3
+(49.72%) 1(W) vs. 3(B) => 1 won in 89 turns
+(50.00%) 1(W) vs. 3(B) => 1 won in 79 turns
+Reused instance 90 for player 2
+Reused instance 91 for player 0
+Connected players 90, 91 to server 0
+(50.28%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 86 for player 2
+Reused instance 87 for player 0
+Connected players 86, 87 to server 0
+(50.56%) 2(W) vs. 0(B) => 0 won in 80 turns
+Reused instance 88 for player 2
+Reused instance 89 for player 0
+Connected players 88, 89 to server 0
+(50.83%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 94 for player 2
+Reused instance 95 for player 0
+Connected players 94, 95 to server 0
+Reused instance 98 for player 2
+Reused instance 99 for player 0
+Connected players 98, 99 to server 0
+(51.11%) 2(W) vs. 0(B) => 0 won in 80 turns
+(51.39%) 2(W) vs. 0(B) => 0 won in 80 turns
+Reused instance 96 for player 2
+Reused instance 97 for player 0
+Connected players 96, 97 to server 0
+(51.67%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 92 for player 2
+Reused instance 93 for player 0
+Connected players 92, 93 to server 0
+(51.94%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 102 for player 2
+Reused instance 103 for player 0
+Connected players 102, 103 to server 0
+(52.22%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 84 for player 2
+Reused instance 85 for player 0
+Connected players 84, 85 to server 0
+(52.50%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 104 for player 2
+Reused instance 105 for player 0
+Connected players 104, 105 to server 0
+(52.78%) 2(W) vs. 0(B) => 0 won in 80 turns
+Reused instance 88 for player 2
+Reused instance 89 for player 0
+Connected players 88, 89 to server 0
+(53.06%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 100 for player 2
+Reused instance 101 for player 0
+Connected players 100, 101 to server 0
+(53.33%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 90 for player 2
+Reused instance 91 for player 0
+Connected players 90, 91 to server 0
+Reused instance 94 for player 2
+Reused instance 95 for player 0
+Connected players 94, 95 to server 0
+Reused instance 102 for player 2
+Reused instance 103 for player 0
+Connected players 102, 103 to server 0
+(53.61%) 2(W) vs. 0(B) => 0 won in 82 turns
+(53.89%) 2(W) vs. 0(B) => 0 won in 80 turns
+(54.17%) 2(W) vs. 0(B) => 0 won in 80 turns
+Created new instance 106 for player 2 on port 8016
+Created new instance 107 for player 0 on port 8008
+Connected players 106, 107 to server 0
+Killed instance 56 from player 1
+Killed instance 77 from player 3
+(54.44%) 1(W) vs. 3(B) => 1 won in 81 turns
+Reused instance 92 for player 2
+Reused instance 93 for player 0
+Connected players 92, 93 to server 0
+(54.72%) 2(W) vs. 0(B) => 0 won in 78 turns
+Reused instance 86 for player 2
+Reused instance 87 for player 0
+Connected players 86, 87 to server 0
+(55.00%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 96 for player 2
+Created new instance 108 for player 1 on port 8001
+Connected players 96, 108 to server 0
+Killed instance 97 from player 0
+(55.28%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 98 for player 2
+Created new instance 109 for player 1 on port 8004
+Connected players 98, 109 to server 0
+Reused instance 90 for player 2
+Created new instance 110 for player 1 on port 8006
+Connected players 90, 110 to server 0
+Killed instance 99 from player 0
+Killed instance 91 from player 0
+(55.56%) 2(W) vs. 0(B) => 0 won in 78 turns
+(55.83%) 2(W) vs. 0(B) => 0 won in 80 turns
+Reused instance 84 for player 2
+Created new instance 111 for player 1 on port 8014
+Connected players 84, 111 to server 0
+Reused instance 104 for player 2
+Created new instance 112 for player 1 on port 8022
+Connected players 104, 112 to server 0
+Reused instance 88 for player 2
+Created new instance 113 for player 1 on port 8023
+Connected players 88, 113 to server 0
+Killed instance 85 from player 0
+Killed instance 105 from player 0
+Killed instance 89 from player 0
+(56.11%) 2(W) vs. 0(B) => 0 won in 82 turns
+(56.39%) 2(W) vs. 0(B) => 0 won in 80 turns
+(56.67%) 2(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 94 for player 2
+Reused instance 108 for player 1
+Connected players 94, 108 to server 0
+Reused instance 106 for player 2
+Created new instance 114 for player 1 on port 8020
+Connected players 106, 114 to server 0
+Reused instance 96 for player 2
+Created new instance 115 for player 1 on port 8026
+Connected players 96, 115 to server 0
+Killed instance 95 from player 0
+Killed instance 107 from player 0
+(56.94%) 2(W) vs. 0(B) => 0 won in 82 turns
+(57.22%) 2(W) vs. 0(B) => 0 won in 82 turns
+(57.50%) 2(W) vs. 1(B) => 1 won in 80 turns
+Reused instance 100 for player 2
+Reused instance 109 for player 1
+Connected players 100, 109 to server 0
+Reused instance 102 for player 2
+Reused instance 110 for player 1
+Connected players 102, 110 to server 0
+Reused instance 86 for player 2
+Created new instance 116 for player 1 on port 8008
+Connected players 86, 116 to server 0
+Reused instance 98 for player 2
+Created new instance 117 for player 1 on port 8028
+Connected players 98, 117 to server 0
+Reused instance 90 for player 2
+Created new instance 118 for player 1 on port 8018
+Connected players 90, 118 to server 0
+Killed instance 101 from player 0
+Killed instance 103 from player 0
+Killed instance 87 from player 0
+(57.78%) 2(W) vs. 0(B) => 0 won in 82 turns
+(58.06%) 2(W) vs. 0(B) => 0 won in 82 turns
+(58.33%) 2(W) vs. 0(B) => 0 won in 82 turns
+(58.61%) 2(W) vs. 1(B) => 1 won in 80 turns
+(58.89%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 92 for player 2
+Reused instance 111 for player 1
+Connected players 92, 111 to server 0
+Reused instance 84 for player 2
+Reused instance 112 for player 1
+Connected players 84, 112 to server 0
+Reused instance 104 for player 2
+Reused instance 113 for player 1
+Connected players 104, 113 to server 0
+Reused instance 88 for player 2
+Reused instance 108 for player 1
+Connected players 88, 108 to server 0
+Reused instance 94 for player 2
+Created new instance 119 for player 1 on port 8012
+Connected players 94, 119 to server 0
+Killed instance 93 from player 0
+(59.17%) 2(W) vs. 0(B) => 0 won in 80 turns
+(59.44%) 2(W) vs. 1(B) => 1 won in 82 turns
+(59.72%) 2(W) vs. 1(B) => 1 won in 82 turns
+(60.00%) 2(W) vs. 1(B) => 1 won in 82 turns
+(60.28%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 106 for player 2
+Reused instance 114 for player 1
+Connected players 106, 114 to server 0
+Reused instance 96 for player 2
+Reused instance 115 for player 1
+Connected players 96, 115 to server 0
+Reused instance 100 for player 2
+Reused instance 109 for player 1
+Connected players 100, 109 to server 0
+(60.56%) 2(W) vs. 1(B) => 1 won in 80 turns
+(60.83%) 2(W) vs. 1(B) => 1 won in 82 turns
+(61.11%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 102 for player 2
+Reused instance 110 for player 1
+Connected players 102, 110 to server 0
+(61.39%) 2(W) vs. 1(B) => 1 won in 80 turns
+Reused instance 86 for player 2
+Reused instance 116 for player 1
+Connected players 86, 116 to server 0
+Reused instance 98 for player 2
+Reused instance 117 for player 1
+Connected players 98, 117 to server 0
+(61.67%) 2(W) vs. 1(B) => 1 won in 82 turns
+(61.94%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 90 for player 2
+Reused instance 118 for player 1
+Connected players 90, 118 to server 0
+(62.22%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 92 for player 2
+Reused instance 111 for player 1
+Connected players 92, 111 to server 0
+Reused instance 84 for player 2
+Reused instance 112 for player 1
+Connected players 84, 112 to server 0
+Reused instance 104 for player 2
+Reused instance 113 for player 1
+Connected players 104, 113 to server 0
+Reused instance 88 for player 2
+Reused instance 108 for player 1
+Connected players 88, 108 to server 0
+(62.50%) 2(W) vs. 1(B) => 1 won in 80 turns
+(62.78%) 2(W) vs. 1(B) => 1 won in 82 turns
+(63.06%) 2(W) vs. 1(B) => 1 won in 82 turns
+(63.33%) 2(W) vs. 1(B) => 1 won in 78 turns
+Reused instance 94 for player 2
+Created new instance 120 for player 3 on port 8024
+Connected players 94, 120 to server 0
+Reused instance 106 for player 2
+Created new instance 121 for player 3 on port 8002
+Connected players 106, 121 to server 0
+Reused instance 96 for player 2
+Created new instance 122 for player 3 on port 8010
+Connected players 96, 122 to server 0
+Killed instance 119 from player 1
+Killed instance 114 from player 1
+Killed instance 115 from player 1
+(63.61%) 2(W) vs. 1(B) => 1 won in 82 turns
+(63.89%) 2(W) vs. 1(B) => 1 won in 82 turns
+(64.17%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 100 for player 2
+Created new instance 123 for player 3 on port 8026
+Connected players 100, 123 to server 0
+Reused instance 102 for player 2
+Created new instance 124 for player 3 on port 8020
+Connected players 102, 124 to server 0
+Reused instance 86 for player 2
+Created new instance 125 for player 3 on port 8012
+Connected players 86, 125 to server 0
+Reused instance 98 for player 2
+Created new instance 126 for player 3 on port 8027
+Connected players 98, 126 to server 0
+Reused instance 90 for player 2
+Created new instance 127 for player 3 on port 8029
+Connected players 90, 127 to server 0
+Killed instance 109 from player 1
+Killed instance 110 from player 1
+Killed instance 116 from player 1
+Killed instance 117 from player 1
+Killed instance 118 from player 1
+(64.44%) 2(W) vs. 1(B) => 1 won in 82 turns
+(64.72%) 2(W) vs. 1(B) => 1 won in 82 turns
+(65.00%) 2(W) vs. 1(B) => 1 won in 82 turns
+(65.28%) 2(W) vs. 1(B) => 1 won in 82 turns
+(65.56%) 2(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 92 for player 2
+Reused instance 121 for player 3
+Connected players 92, 121 to server 0
+Reused instance 84 for player 2
+Reused instance 122 for player 3
+Connected players 84, 122 to server 0
+Reused instance 104 for player 2
+Created new instance 128 for player 3 on port 8018
+Connected players 104, 128 to server 0
+Reused instance 88 for player 2
+Created new instance 129 for player 3 on port 8028
+Connected players 88, 129 to server 0
+Reused instance 106 for player 2
+Created new instance 130 for player 3 on port 8008
+Connected players 106, 130 to server 0
+Reused instance 96 for player 2
+Created new instance 131 for player 3 on port 8006
+Connected players 96, 131 to server 0
+Killed instance 111 from player 1
+Killed instance 112 from player 1
+Killed instance 113 from player 1
+Killed instance 108 from player 1
+(65.83%) 2(W) vs. 1(B) => 1 won in 80 turns
+(66.11%) 2(W) vs. 1(B) => 1 won in 80 turns
+(66.39%) 2(W) vs. 1(B) => 1 won in 82 turns
+(66.67%) 2(W) vs. 1(B) => 1 won in 82 turns
+(66.94%) 2(W) vs. 3(B) => 2 won in 75 turns
+(67.22%) 2(W) vs. 3(B) => 2 won in 77 turns
+Reused instance 94 for player 2
+Reused instance 120 for player 3
+Connected players 94, 120 to server 0
+Reused instance 100 for player 2
+Reused instance 123 for player 3
+Connected players 100, 123 to server 0
+Reused instance 102 for player 2
+Reused instance 124 for player 3
+Connected players 102, 124 to server 0
+Reused instance 86 for player 2
+Reused instance 125 for player 3
+Connected players 86, 125 to server 0
+Reused instance 98 for player 2
+Reused instance 126 for player 3
+Connected players 98, 126 to server 0
+(67.50%) 2(W) vs. 3(B) => 2 won in 87 turns
+(67.78%) 2(W) vs. 3(B) => 3 won in 90 turns
+(68.06%) 2(W) vs. 3(B) => 3 won in 84 turns
+(68.33%) 2(W) vs. 3(B) => 3 won in 84 turns
+(68.61%) 2(W) vs. 3(B) => 3 won in 88 turns
+Reused instance 90 for player 2
+Reused instance 127 for player 3
+Connected players 90, 127 to server 0
+Reused instance 84 for player 2
+Reused instance 122 for player 3
+Connected players 84, 122 to server 0
+(68.89%) 2(W) vs. 3(B) => 2 won in 85 turns
+(69.17%) 2(W) vs. 3(B) => 3 won in 92 turns
+Reused instance 104 for player 2
+Reused instance 128 for player 3
+Connected players 104, 128 to server 0
+Reused instance 88 for player 2
+Reused instance 129 for player 3
+Connected players 88, 129 to server 0
+(69.44%) 2(W) vs. 3(B) => 3 won in 92 turns
+(69.72%) 2(W) vs. 3(B) => 2 won in 75 turns
+Reused instance 106 for player 2
+Reused instance 130 for player 3
+Connected players 106, 130 to server 0
+(70.00%) 2(W) vs. 3(B) => 2 won in 91 turns
+Reused instance 102 for player 2
+Reused instance 124 for player 3
+Connected players 102, 124 to server 0
+(70.28%) 2(W) vs. 3(B) => 3 won in 82 turns
+Reused instance 96 for player 2
+Reused instance 131 for player 3
+Connected players 96, 131 to server 0
+Reused instance 94 for player 2
+Reused instance 120 for player 3
+Connected players 94, 120 to server 0
+Reused instance 100 for player 2
+Reused instance 123 for player 3
+Connected players 100, 123 to server 0
+Reused instance 86 for player 2
+Reused instance 125 for player 3
+Connected players 86, 125 to server 0
+(70.56%) 2(W) vs. 3(B) => 2 won in 77 turns
+(70.83%) 2(W) vs. 3(B) => 2 won in 77 turns
+(71.11%) 2(W) vs. 3(B) => 3 won in 92 turns
+(71.39%) 2(W) vs. 3(B) => 2 won in 83 turns
+Reused instance 98 for player 2
+Reused instance 126 for player 3
+Connected players 98, 126 to server 0
+Reused instance 127 for player 3
+Created new instance 132 for player 0 on port 8001
+Connected players 127, 132 to server 0
+Reused instance 122 for player 3
+Created new instance 133 for player 0 on port 8023
+Connected players 122, 133 to server 0
+Reused instance 128 for player 3
+Created new instance 134 for player 0 on port 8022
+Connected players 128, 134 to server 0
+Killed instance 90 from player 2
+Killed instance 84 from player 2
+Killed instance 104 from player 2
+(71.67%) 2(W) vs. 3(B) => 2 won in 77 turns
+(71.94%) 2(W) vs. 3(B) => 3 won in 88 turns
+(72.22%) 2(W) vs. 3(B) => 2 won in 87 turns
+(72.50%) 2(W) vs. 3(B) => 2 won in 67 turns
+Reused instance 129 for player 3
+Created new instance 135 for player 0 on port 8021
+Connected players 129, 135 to server 0
+Reused instance 130 for player 3
+Created new instance 136 for player 0 on port 8005
+Connected players 130, 136 to server 0
+Reused instance 124 for player 3
+Created new instance 137 for player 0 on port 8007
+Connected players 124, 137 to server 0
+Reused instance 120 for player 3
+Created new instance 138 for player 0 on port 8014
+Connected players 120, 138 to server 0
+Reused instance 123 for player 3
+Created new instance 139 for player 0 on port 8004
+Connected players 123, 139 to server 0
+Reused instance 125 for player 3
+Created new instance 140 for player 0 on port 8030
+Connected players 125, 140 to server 0
+Killed instance 88 from player 2
+Killed instance 106 from player 2
+Killed instance 102 from player 2
+Killed instance 94 from player 2
+Killed instance 100 from player 2
+Killed instance 86 from player 2
+(72.78%) 2(W) vs. 3(B) => 2 won in 77 turns
+(73.06%) 2(W) vs. 3(B) => 2 won in 77 turns
+(73.33%) 2(W) vs. 3(B) => 2 won in 75 turns
+(73.61%) 2(W) vs. 3(B) => 2 won in 77 turns
+(73.89%) 2(W) vs. 3(B) => 2 won in 77 turns
+(74.17%) 2(W) vs. 3(B) => 2 won in 77 turns
+Reused instance 121 for player 3
+Created new instance 141 for player 0 on port 8013
+Connected players 121, 141 to server 0
+Reused instance 131 for player 3
+Created new instance 142 for player 0 on port 8017
+Connected players 131, 142 to server 0
+Killed instance 92 from player 2
+Killed instance 96 from player 2
+(74.44%) 2(W) vs. 3(B) => 2 won in 75 turns
+(74.72%) 2(W) vs. 3(B) => 2 won in 89 turns
+Reused instance 126 for player 3
+Created new instance 143 for player 0 on port 8025
+Connected players 126, 143 to server 0
+Killed instance 98 from player 2
+(75.00%) 2(W) vs. 3(B) => 2 won in 67 turns
+Reused instance 129 for player 3
+Reused instance 135 for player 0
+Connected players 129, 135 to server 0
+(75.28%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 130 for player 3
+Reused instance 136 for player 0
+Connected players 130, 136 to server 0
+(75.56%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 122 for player 3
+Reused instance 133 for player 0
+Connected players 122, 133 to server 0
+(75.83%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 128 for player 3
+Reused instance 134 for player 0
+Connected players 128, 134 to server 0
+(76.11%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 127 for player 3
+Reused instance 132 for player 0
+Connected players 127, 132 to server 0
+Reused instance 123 for player 3
+Reused instance 139 for player 0
+Connected players 123, 139 to server 0
+(76.39%) 3(W) vs. 0(B) => 0 won in 82 turns
+(76.67%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 124 for player 3
+Reused instance 137 for player 0
+Connected players 124, 137 to server 0
+Reused instance 121 for player 3
+Reused instance 141 for player 0
+Connected players 121, 141 to server 0
+(76.94%) 3(W) vs. 0(B) => 0 won in 82 turns
+(77.22%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 120 for player 3
+Reused instance 138 for player 0
+Connected players 120, 138 to server 0
+Reused instance 131 for player 3
+Reused instance 142 for player 0
+Connected players 131, 142 to server 0
+(77.50%) 3(W) vs. 0(B) => 0 won in 82 turns
+(77.78%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 129 for player 3
+Reused instance 135 for player 0
+Connected players 129, 135 to server 0
+(78.06%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 126 for player 3
+Reused instance 143 for player 0
+Connected players 126, 143 to server 0
+(78.33%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 122 for player 3
+Reused instance 133 for player 0
+Connected players 122, 133 to server 0
+(78.61%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 125 for player 3
+Reused instance 140 for player 0
+Connected players 125, 140 to server 0
+(78.89%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 130 for player 3
+Reused instance 136 for player 0
+Connected players 130, 136 to server 0
+(79.17%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 127 for player 3
+Reused instance 132 for player 0
+Connected players 127, 132 to server 0
+Reused instance 123 for player 3
+Reused instance 139 for player 0
+Connected players 123, 139 to server 0
+(79.44%) 3(W) vs. 0(B) => 0 won in 82 turns
+(79.72%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 124 for player 3
+Reused instance 137 for player 0
+Connected players 124, 137 to server 0
+Reused instance 131 for player 3
+Created new instance 144 for player 1 on port 8009
+Connected players 131, 144 to server 0
+Killed instance 142 from player 0
+(80.00%) 3(W) vs. 0(B) => 0 won in 82 turns
+(80.28%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 128 for player 3
+Created new instance 145 for player 1 on port 8017
+Connected players 128, 145 to server 0
+Killed instance 134 from player 0
+(80.56%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 120 for player 3
+Created new instance 146 for player 1 on port 8022
+Connected players 120, 146 to server 0
+Killed instance 138 from player 0
+(80.83%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 129 for player 3
+Created new instance 147 for player 1 on port 8014
+Connected players 129, 147 to server 0
+Killed instance 135 from player 0
+(81.11%) 3(W) vs. 0(B) => 0 won in 82 turns
+Reused instance 121 for player 3
+Reused instance 144 for player 1
+Connected players 121, 144 to server 0
+Reused instance 126 for player 3
+Created new instance 148 for player 1 on port 8021
+Connected players 126, 148 to server 0
+Reused instance 125 for player 3
+Created new instance 149 for player 1 on port 8019
+Connected players 125, 149 to server 0
+Reused instance 131 for player 3
+Created new instance 150 for player 1 on port 8011
+Connected players 131, 150 to server 0
+Killed instance 141 from player 0
+Killed instance 143 from player 0
+Killed instance 140 from player 0
+(81.39%) 3(W) vs. 0(B) => 0 won in 82 turns
+(81.67%) 3(W) vs. 0(B) => 0 won in 82 turns
+(81.94%) 3(W) vs. 0(B) => 0 won in 82 turns
+(82.22%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 130 for player 3
+Reused instance 145 for player 1
+Connected players 130, 145 to server 0
+Reused instance 128 for player 3
+Reused instance 146 for player 1
+Connected players 128, 146 to server 0
+Reused instance 120 for player 3
+Created new instance 151 for player 1 on port 8030
+Connected players 120, 151 to server 0
+Killed instance 136 from player 0
+(82.50%) 3(W) vs. 0(B) => 0 won in 82 turns
+(82.78%) 3(W) vs. 1(B) => 1 won in 82 turns
+(83.06%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 122 for player 3
+Reused instance 147 for player 1
+Connected players 122, 147 to server 0
+Reused instance 124 for player 3
+Created new instance 152 for player 1 on port 8005
+Connected players 124, 152 to server 0
+Reused instance 129 for player 3
+Created new instance 153 for player 1 on port 8025
+Connected players 129, 153 to server 0
+Killed instance 133 from player 0
+Killed instance 137 from player 0
+(83.33%) 3(W) vs. 0(B) => 0 won in 82 turns
+(83.61%) 3(W) vs. 0(B) => 0 won in 82 turns
+(83.89%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 127 for player 3
+Reused instance 144 for player 1
+Connected players 127, 144 to server 0
+Reused instance 123 for player 3
+Created new instance 154 for player 1 on port 8007
+Connected players 123, 154 to server 0
+Reused instance 121 for player 3
+Created new instance 155 for player 1 on port 8023
+Connected players 121, 155 to server 0
+Killed instance 132 from player 0
+Killed instance 139 from player 0
+(84.17%) 3(W) vs. 0(B) => 0 won in 82 turns
+(84.44%) 3(W) vs. 0(B) => 0 won in 82 turns
+(84.72%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 125 for player 3
+Reused instance 149 for player 1
+Connected players 125, 149 to server 0
+Reused instance 131 for player 3
+Reused instance 150 for player 1
+Connected players 131, 150 to server 0
+Reused instance 130 for player 3
+Reused instance 145 for player 1
+Connected players 130, 145 to server 0
+Reused instance 128 for player 3
+Reused instance 146 for player 1
+Connected players 128, 146 to server 0
+(85.00%) 3(W) vs. 1(B) => 1 won in 82 turns
+(85.28%) 3(W) vs. 1(B) => 1 won in 82 turns
+(85.56%) 3(W) vs. 1(B) => 1 won in 82 turns
+(85.83%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 126 for player 3
+Reused instance 148 for player 1
+Connected players 126, 148 to server 0
+Reused instance 120 for player 3
+Reused instance 151 for player 1
+Connected players 120, 151 to server 0
+Reused instance 122 for player 3
+Reused instance 147 for player 1
+Connected players 122, 147 to server 0
+(86.11%) 3(W) vs. 1(B) => 1 won in 82 turns
+(86.39%) 3(W) vs. 1(B) => 1 won in 82 turns
+(86.67%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 124 for player 3
+Reused instance 152 for player 1
+Connected players 124, 152 to server 0
+(86.94%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 127 for player 3
+Reused instance 144 for player 1
+Connected players 127, 144 to server 0
+(87.22%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 123 for player 3
+Reused instance 154 for player 1
+Connected players 123, 154 to server 0
+(87.50%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 129 for player 3
+Reused instance 153 for player 1
+Connected players 129, 153 to server 0
+(87.78%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 121 for player 3
+Reused instance 155 for player 1
+Connected players 121, 155 to server 0
+Reused instance 125 for player 3
+Reused instance 149 for player 1
+Connected players 125, 149 to server 0
+Reused instance 131 for player 3
+Created new instance 156 for player 2 on port 8004
+Connected players 131, 156 to server 0
+Killed instance 150 from player 1
+(88.06%) 3(W) vs. 1(B) => 1 won in 82 turns
+(88.33%) 3(W) vs. 1(B) => 1 won in 82 turns
+(88.61%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 130 for player 3
+Created new instance 157 for player 2 on port 8011
+Connected players 130, 157 to server 0
+Reused instance 128 for player 3
+Created new instance 158 for player 2 on port 8001
+Connected players 128, 158 to server 0
+Reused instance 120 for player 3
+Created new instance 159 for player 2 on port 8013
+Connected players 120, 159 to server 0
+Reused instance 122 for player 3
+Created new instance 160 for player 2 on port 8003
+Connected players 122, 160 to server 0
+Killed instance 145 from player 1
+Killed instance 146 from player 1
+Killed instance 151 from player 1
+Killed instance 147 from player 1
+(88.89%) 3(W) vs. 1(B) => 1 won in 82 turns
+(89.17%) 3(W) vs. 1(B) => 1 won in 82 turns
+(89.44%) 3(W) vs. 1(B) => 1 won in 82 turns
+(89.72%) 3(W) vs. 1(B) => 1 won in 82 turns
+Reused instance 126 for player 3
+Reused instance 156 for player 2
+Connected players 126, 156 to server 0
+Reused instance 124 for player 3
+Created new instance 161 for player 2 on port 8014
+Connected players 124, 161 to server 0
+Reused instance 127 for player 3
+Created new instance 162 for player 2 on port 8030
+Connected players 127, 162 to server 0
+Reused instance 123 for player 3
+Created new instance 163 for player 2 on port 8022
+Connected players 123, 163 to server 0
+Reused instance 129 for player 3
+Created new instance 164 for player 2 on port 8017
+Connected players 129, 164 to server 0
+Reused instance 121 for player 3
+Created new instance 165 for player 2 on port 8016
+Connected players 121, 165 to server 0
+Reused instance 125 for player 3
+Created new instance 166 for player 2 on port 8015
+Connected players 125, 166 to server 0
+Reused instance 131 for player 3
+Created new instance 167 for player 2 on port 8031
+Connected players 131, 167 to server 0
+Killed instance 148 from player 1
+Killed instance 152 from player 1
+Killed instance 144 from player 1
+Killed instance 154 from player 1
+Killed instance 153 from player 1
+Killed instance 155 from player 1
+Killed instance 149 from player 1
+(90.00%) 3(W) vs. 1(B) => 1 won in 82 turns
+(90.28%) 3(W) vs. 1(B) => 1 won in 80 turns
+(90.56%) 3(W) vs. 1(B) => 1 won in 82 turns
+(90.83%) 3(W) vs. 1(B) => 1 won in 82 turns
+(91.11%) 3(W) vs. 1(B) => 1 won in 82 turns
+(91.39%) 3(W) vs. 1(B) => 1 won in 82 turns
+(91.67%) 3(W) vs. 1(B) => 1 won in 82 turns
+(91.94%) 3(W) vs. 2(B) => 3 won in 77 turns
+Reused instance 130 for player 3
+Reused instance 157 for player 2
+Connected players 130, 157 to server 0
+Reused instance 128 for player 3
+Reused instance 158 for player 2
+Connected players 128, 158 to server 0
+Reused instance 120 for player 3
+Reused instance 159 for player 2
+Connected players 120, 159 to server 0
+Reused instance 122 for player 3
+Reused instance 160 for player 2
+Connected players 122, 160 to server 0
+Reused instance 126 for player 3
+Reused instance 156 for player 2
+Connected players 126, 156 to server 0
+Reused instance 124 for player 3
+Reused instance 161 for player 2
+Connected players 124, 161 to server 0
+(92.22%) 3(W) vs. 2(B) => 2 won in 92 turns
+(92.50%) 3(W) vs. 2(B) => 3 won in 75 turns
+(92.78%) 3(W) vs. 2(B) => 3 won in 69 turns
+(93.06%) 3(W) vs. 2(B) => 3 won in 75 turns
+(93.33%) 3(W) vs. 2(B) => 3 won in 75 turns
+(93.61%) 3(W) vs. 2(B) => 3 won in 77 turns
+Reused instance 127 for player 3
+Reused instance 162 for player 2
+Connected players 127, 162 to server 0
+Reused instance 123 for player 3
+Reused instance 163 for player 2
+Connected players 123, 163 to server 0
+Reused instance 129 for player 3
+Reused instance 164 for player 2
+Connected players 129, 164 to server 0
+(93.89%) 3(W) vs. 2(B) => 3 won in 89 turns
+(94.17%) 3(W) vs. 2(B) => 3 won in 77 turns
+(94.44%) 3(W) vs. 2(B) => 3 won in 67 turns
+Reused instance 121 for player 3
+Reused instance 165 for player 2
+Connected players 121, 165 to server 0
+Reused instance 125 for player 3
+Reused instance 166 for player 2
+Connected players 125, 166 to server 0
+(94.72%) 3(W) vs. 2(B) => 2 won in 92 turns
+(95.00%) 3(W) vs. 2(B) => 3 won in 75 turns
+Reused instance 131 for player 3
+Reused instance 167 for player 2
+Connected players 131, 167 to server 0
+Reused instance 128 for player 3
+Reused instance 158 for player 2
+Connected players 128, 158 to server 0
+(95.28%) 3(W) vs. 2(B) => 3 won in 77 turns
+(95.56%) 3(W) vs. 2(B) => 3 won in 77 turns
+Reused instance 130 for player 3
+Reused instance 157 for player 2
+Connected players 130, 157 to server 0
+Reused instance 120 for player 3
+Reused instance 159 for player 2
+Connected players 120, 159 to server 0
+Reused instance 122 for player 3
+Reused instance 160 for player 2
+Connected players 122, 160 to server 0
+Reused instance 124 for player 3
+Reused instance 161 for player 2
+Connected players 124, 161 to server 0
+(95.83%) 3(W) vs. 2(B) => 2 won in 86 turns
+(96.11%) 3(W) vs. 2(B) => 2 won in 86 turns
+(96.39%) 3(W) vs. 2(B) => 2 won in 84 turns
+(96.67%) 3(W) vs. 2(B) => 3 won in 69 turns
+Killed instance 127 from player 3
+Killed instance 162 from player 2
+Killed instance 123 from player 3
+Killed instance 163 from player 2
+Killed instance 121 from player 3
+Killed instance 165 from player 2
+(96.94%) 3(W) vs. 2(B) => 3 won in 75 turns
+(97.22%) 3(W) vs. 2(B) => 3 won in 75 turns
+(97.50%) 3(W) vs. 2(B) => 3 won in 75 turns
+Killed instance 129 from player 3
+Killed instance 164 from player 2
+Killed instance 125 from player 3
+Killed instance 166 from player 2
+(97.78%) 3(W) vs. 2(B) => 3 won in 91 turns
+(98.06%) 3(W) vs. 2(B) => 3 won in 77 turns
+Killed instance 126 from player 3
+Killed instance 156 from player 2
+Killed instance 131 from player 3
+Killed instance 167 from player 2
+Killed instance 128 from player 3
+Killed instance 158 from player 2
+(98.33%) 3(W) vs. 2(B) => 2 won in 86 turns
+(98.61%) 3(W) vs. 2(B) => 3 won in 75 turns
+(98.89%) 3(W) vs. 2(B) => 3 won in 87 turns
+Killed instance 120 from player 3
+Killed instance 159 from player 2
+Killed instance 122 from player 3
+Killed instance 160 from player 2
+Killed instance 124 from player 3
+Killed instance 161 from player 2
+(99.17%) 3(W) vs. 2(B) => 3 won in 73 turns
+(99.44%) 3(W) vs. 2(B) => 3 won in 65 turns
+(99.72%) 3(W) vs. 2(B) => 3 won in 77 turns
+Killed instance 130 from player 3
+Killed instance 157 from player 2
+(100.00%) 3(W) vs. 2(B) => 3 won in 87 turns
+Cleanup
+Killed server on port 8000
+---- REPORT ----
+-- ABOhneEinbauen.jar (0)
+Win Rate                                 : 72.22% (130/180)
+Win Rate as white                        : 64.44% (58/90)
+Win Rate as black                        : 80.00% (72/90)
+Round length when won (lower is better)  : min 73.00; max 91.00; avg 82.72
+Round length when lost (higher is better): min 66.00; max 91.00; avg 82.04
+-- ABMitEinbauen.jar (1)
+Win Rate                                 : 75.00% (135/180)
+Win Rate as white                        : 70.00% (63/90)
+Win Rate as black                        : 80.00% (72/90)
+Round length when won (lower is better)  : min 69.00; max 91.00; avg 82.85
+Round length when lost (higher is better): min 68.00; max 92.00; avg 81.47
+-- GreedyOhneEinbauen.jar (2)
+Win Rate                                 : 24.44% (44/180)
+Win Rate as white                        : 23.33% (21/90)
+Win Rate as black                        : 25.56% (23/90)
+Round length when won (lower is better)  : min 66.00; max 92.00; avg 78.80
+Round length when lost (higher is better): min 65.00; max 92.00; avg 81.20
+-- GreedyMitEinbauen.jar (3)
+Win Rate                                 : 28.33% (51/180)
+Win Rate as white                        : 26.67% (24/90)
+Win Rate as black                        : 30.00% (27/90)
+Round length when won (lower is better)  : min 65.00; max 92.00; avg 79.69
+Round length when lost (higher is better): min 67.00; max 92.00; avg 82.63
+Overall time 773.26s, avg game time 8.59s

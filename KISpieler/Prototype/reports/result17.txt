@@ -1,0 +1,66 @@
+Running on 1 threads
+There will be 10800 matches
+---- REPORT ----
+-- V1 x / 0.3
+Win Rate                                 : 39.75% (954/2400)
+Win Rate as white                        : 42.25% (507/1200)
+Win Rate as black                        : 37.25% (447/1200)
+Calculation time                         : min 0.00s; max 9.41s; avg 1.00s
+Round length when won (lower is better)  : min 33.00; max 47.00; avg 42.77
+Round length when lost (higher is better): min 27.00; max 47.00; avg 40.58
+-- V1 x / 0.5
+Win Rate                                 : 54.54% (1309/2400)
+Win Rate as white                        : 63.92% (767/1200)
+Win Rate as black                        : 45.17% (542/1200)
+Calculation time                         : min 0.00s; max 9.43s; avg 0.98s
+Round length when won (lower is better)  : min 31.00; max 47.00; avg 41.64
+Round length when lost (higher is better): min 27.00; max 47.00; avg 42.28
+-- V1 x / 0.8
+Win Rate                                 : 56.92% (1366/2400)
+Win Rate as white                        : 53.00% (636/1200)
+Win Rate as black                        : 60.83% (730/1200)
+Calculation time                         : min 0.00s; max 9.37s; avg 0.96s
+Round length when won (lower is better)  : min 29.00; max 47.00; avg 42.30
+Round length when lost (higher is better): min 32.00; max 47.00; avg 40.86
+-- V1 2^x / 0.3
+Win Rate                                 : 29.79% (715/2400)
+Win Rate as white                        : 27.33% (328/1200)
+Win Rate as black                        : 32.25% (387/1200)
+Calculation time                         : min 0.00s; max 9.21s; avg 1.01s
+Round length when won (lower is better)  : min 29.00; max 47.00; avg 43.24
+Round length when lost (higher is better): min 28.00; max 47.00; avg 40.99
+-- V1 2^x / 0.5
+Win Rate                                 : 58.38% (1401/2400)
+Win Rate as white                        : 63.75% (765/1200)
+Win Rate as black                        : 53.00% (636/1200)
+Calculation time                         : min 0.00s; max 9.33s; avg 1.02s
+Round length when won (lower is better)  : min 27.00; max 47.00; avg 41.61
+Round length when lost (higher is better): min 25.00; max 47.00; avg 41.85
+-- V1 2^x / 0.8
+Win Rate                                 : 59.88% (1437/2400)
+Win Rate as white                        : 54.50% (654/1200)
+Win Rate as black                        : 65.25% (783/1200)
+Calculation time                         : min 0.00s; max 9.42s; avg 0.97s
+Round length when won (lower is better)  : min 30.00; max 47.00; avg 40.52
+Round length when lost (higher is better): min 32.00; max 47.00; avg 42.38
+-- V1 x^3 / 0.3
+Win Rate                                 : 25.29% (607/2400)
+Win Rate as white                        : 25.50% (306/1200)
+Win Rate as black                        : 25.08% (301/1200)
+Calculation time                         : min 0.00s; max 9.35s; avg 1.01s
+Round length when won (lower is better)  : min 31.00; max 47.00; avg 43.06
+Round length when lost (higher is better): min 28.00; max 47.00; avg 41.12
+-- V1 x^3 / 0.5
+Win Rate                                 : 58.42% (1402/2400)
+Win Rate as white                        : 62.50% (750/1200)
+Win Rate as black                        : 54.33% (652/1200)
+Calculation time                         : min 0.00s; max 9.29s; avg 1.00s
+Round length when won (lower is better)  : min 29.00; max 47.00; avg 41.06
+Round length when lost (higher is better): min 27.00; max 47.00; avg 42.62
+-- V1 x^3 / 0.8
+Win Rate                                 : 67.04% (1609/2400)
+Win Rate as white                        : 66.83% (802/1200)
+Win Rate as black                        : 67.25% (807/1200)
+Calculation time                         : min 0.00s; max 9.25s; avg 0.98s
+Round length when won (lower is better)  : min 25.00; max 47.00; avg 39.89
+Round length when lost (higher is better): min 33.00; max 47.00; avg 42.22

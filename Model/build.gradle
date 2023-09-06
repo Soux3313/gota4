@@ -1,0 +1,35 @@
+plugins {
+    id 'java-library'
+}
+
+version 'unspecified'
+sourceCompatibility = 11
+targetCompatibility = 11
+compileJava.options.encoding = 'UTF-8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //Gson for JSON Support
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    //Need for Validation package:
+    implementation project(':Validation')
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+test {
+    //Runs when all tests are UP-TO-DATE (otherwise Gradle test wouldn't run)
+    dependsOn 'cleanTest'
+
+    useJUnit()
+
+    // set heap size for the test JVM(s)
+    maxHeapSize = '512m'
+
+    //creates HTML reports for quick test result checking
+    reports.html.enabled = true
+}

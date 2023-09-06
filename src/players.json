@@ -1,0 +1,38 @@
+{
+    "post":{
+        "body" : {
+            "name":"Spieler1",
+            "controllable":true
+        },
+        "response" : {
+            "name":"Spieler1",
+            "controllable":false,
+            "id":0
+        }
+    },
+    "get" : {
+        
+        "players": [
+            {
+                "id":0,
+                "name":"Spieler 1",
+                "controllable":true
+            },
+            {
+                "id":1,
+                "name":"Spieler 2",
+                "controllable":false
+            }
+
+        ]    
+    },
+    "delete": [
+        {
+            "id":0
+        },
+        {
+            "id":1
+        }
+    ]
+    
+}

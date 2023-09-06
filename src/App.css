@@ -1,0 +1,85 @@
+/* Schwarze Figuren */
+.fb{
+  position: absolute;
+  font-size: x-large;
+  text-align: center;
+}
+/* Weiße Figuren */
+.fw{
+  position: absolute;
+  font-size: x-large;
+  text-align: center;
+}
+
+/* Weiße Felder */
+.w {
+  font-size: x-large;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(199, 192, 179);
+}
+
+/* Schwarze Felder */
+.b {
+  position: relative;
+  font-size: x-large;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(135, 128, 139);
+}
+
+
+.text{
+  text-align: center;
+}
+
+/* PC und Ipad */
+@media only screen and (min-device-width: 481px) {
+  .container{
+    display: grid;
+    grid-template-areas: 
+    
+    "table help"
+    "footer";
+  }
+}
+
+
+/* Spielfeld */
+.playground{
+  left: 20px;
+  width:40%;
+}
+
+/* Hilfe-Menü */
+.help{
+  position: absolute;
+  right: 5px;
+  top: 5p;
+  width: 60%;
+  grid-area: help;
+  justify-self: center;
+}
+
+/*Quasi Impressum*/
+.footer{
+  position: absolute;
+  bottom: 1%;
+  height: 5%;
+}
+
+/*Handybildschirme*/
+@media only screen and (max-device-width: 480px) {
+  .footer{
+    position: relative;
+    height: 5%;
+    left: 5px;
+  }
+  .help{
+    position: relative;
+    left: 5px;
+    width: 100%;
+  }
+}

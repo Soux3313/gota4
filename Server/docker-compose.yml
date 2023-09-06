@@ -1,0 +1,14 @@
+version: "3.3"
+services:
+    amazonsserver:
+        build:
+            context: ..
+            dockerfile: ./Server/Dockerfile
+
+        environment:
+            - AMAZONS_ADDRESS=0.0.0.0
+            - AMAZONS_DEBUG=true
+            - AMAZONS_TOKEN=somedefaultpassword
+            
+        ports:
+            - 8000:8000/tcp

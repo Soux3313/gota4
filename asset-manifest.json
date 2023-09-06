@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gota4/static/css/main.aec6e577.css",
+    "main.js": "/gota4/static/js/main.10a66a51.js",
+    "static/js/787.d5aa64f2.chunk.js": "/gota4/static/js/787.d5aa64f2.chunk.js",
+    "index.html": "/gota4/index.html",
+    "main.aec6e577.css.map": "/gota4/static/css/main.aec6e577.css.map",
+    "main.10a66a51.js.map": "/gota4/static/js/main.10a66a51.js.map",
+    "787.d5aa64f2.chunk.js.map": "/gota4/static/js/787.d5aa64f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec6e577.css",
+    "static/js/main.10a66a51.js"
+  ]
+}

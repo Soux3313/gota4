@@ -29,14 +29,28 @@ class Playground extends React.Component {
         [3, " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
         [2, " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
         [1, " ", " ", " ", "♕", " ", " ", "♕", " ", " ", " "],
-      ]
+      ],
+      fetchData: null,
     };
     
     // Bind the Game method to the component instance
     this.Game = this.Game.bind(this);
     this.checkIfFree = this.checkIfFree.bind(this);
   }
-  
+
+  componentDidMount() {
+    // Make a GET request using fetch when the component mounts
+    fetch('https://gruppe5.toni-barth.com') // Replace with your API endpoint
+      .then((response) => response.json())
+      .then((data) => {
+        // Update the component's state with the fetched data
+        this.setState({ fetchData: data });
+      })
+      .catch((error) => {
+        console.error('Error fetching data:', error);
+      });
+  }
+
   //Testet ob die Figur welche an den Startkoordinaten steht 
   //einen freien weg zu den endkoordinaten hat und ob es auf einer 
   //Diagonalen,horizontalen oder vertikalen ebene steht
@@ -47,6 +61,10 @@ class Playground extends React.Component {
 
     //wenn start=Ende
     if (startX === endX && (startY === endY)){
+      return legal;
+    }
+
+    if (startX < 0 && startX >= tableData.length && endX < 0 && endX >= tableData[startX].length && startY < 0 && startY >= tableData.length && endY < 0 && endY >= tableData[startX].length) {
       return legal;
     }
 
@@ -140,7 +158,7 @@ class Playground extends React.Component {
     return legal;
   }
 
-  Game(rowIndex, cellIndex) {
+  /*Game(rowIndex, cellIndex) {
     let { activePlayer, phase, tableData } = this.state;
     let startX = this.state.startX;
     let startY = this.state.startY;
@@ -240,6 +258,100 @@ class Playground extends React.Component {
       legal,
     });
   }
+*/
+Game(rowIndex, cellIndex) {
+  let { activePlayer, phase, tableData } = this.state;
+  let startX = this.state.startX;
+  let startY = this.state.startY;
+  let endX = this.state.endX;
+  let endY = this.state.endY;
+  let shotX = this.state.shotX;
+  let shotY = this.state.shotY;
+  let legal = this.state.legal;
+
+  if (!tableData[rowIndex] || !tableData[rowIndex][cellIndex]) {
+    return; // Frühzeitiger Ausstieg, wenn die Indizes ungültig sind
+  }
+
+  if (tableData[rowIndex][cellIndex] === "♕" && activePlayer === 1 && phase !== "shoot") {
+    startX = rowIndex;
+    startY = cellIndex;
+    for (let i = startY - 1; i <= startY + 1; i++) {
+      for (let j = startX - 1; j <= startX + 1; j++) {
+        if (tableData[j] && tableData[j][i] === " " && i !== 0) {
+          phase = "move";
+          break;
+        }
+      }
+    }
+  } else if (tableData[rowIndex][cellIndex] === "♛" && activePlayer === 2 && phase !== "shoot") {
+    startX = rowIndex;
+    startY = cellIndex;
+    for (let i = startY - 1; i <= startY + 1; i++) {
+      for (let j = startX - 1; j <= startX + 1; j++) {
+        if (tableData[j] && tableData[j][i] === " " && i !== 0) {
+          phase = "move";
+          break;
+        }
+      }
+    }
+  } else if (phase === "move" && activePlayer === 1) {
+    endX = rowIndex;
+    endY = cellIndex;
+    legal = this.checkIfFree(startX, startY, endX, endY);
+    if (legal) {
+      tableData[startX][startY] = " ";
+      tableData[endX][endY] = "♕";
+      phase = "shoot";
+    }
+  } else if (phase === "move" && activePlayer === 2) {
+    endX = rowIndex;
+    endY = cellIndex;
+    legal = this.checkIfFree(startX, startY, endX, endY);
+    if (legal) {
+      tableData[startX][startY] = " ";
+      tableData[endX][endY] = "♛";
+      phase = "shoot";
+    }
+  } else if (phase === "shoot") {
+    shotX = rowIndex;
+    shotY = cellIndex;
+    legal = this.checkIfFree(endX, endY, shotX, shotY);
+    if (legal) {
+      tableData[rowIndex][cellIndex] = "🔥";
+      const nextPlayer = activePlayer === 1 ? 2 : 1;
+      this.setState({
+        activePlayer: nextPlayer,
+        phase: "select",
+        startX: 0,
+        startY: 0,
+        endX: 0,
+        endY: 0,
+        shotX: 0,
+        shotY: 0,
+        legal: false,
+        tableData: [...tableData],
+      });
+
+      if (this.playerWon(activePlayer)) {
+        alert("Spieler " + activePlayer + " hat gewonnen!");
+      }
+      return;
+    }
+  }
+
+  this.setState({
+    activePlayer,
+    phase,
+    startX,
+    startY,
+    endX,
+    endY,
+    shotX,
+    shotY,
+    legal,
+  });
+}
 
 
   //test ob sich der nicht aktive Spieler noch bewegen kann, wenn nicht dann hat active Player gewonnen
@@ -347,6 +459,12 @@ class Playground extends React.Component {
           ))}
         </tbody>
       </table>
+      {this.state.fetchData && (
+          <div>
+            <h2>Fetched Data</h2>
+            <pre>{JSON.stringify(this.state.fetchData, null, 2)}</pre>
+          </div>
+        )}
       </div>
     );
   }
